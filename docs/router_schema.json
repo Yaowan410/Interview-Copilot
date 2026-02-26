@@ -1,0 +1,7 @@
+{
+  "type": "coding | concept | system | behavioral",
+  "language": "python",
+  "needs_rag": true,
+  "expected_depth": "short | medium | deep",
+  "constraints": ["time_limit", "memory_limit", "edge_cases", "follow_up"]
+}
